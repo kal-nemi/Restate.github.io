@@ -2,7 +2,7 @@
 
 ML assignment for Research papers into Audiobook using Google Vision API &amp; Google Text to Speech AI integration to Web app
 
-- [ ] Calamari Ocr to convert Research paper to text format
+- [x] ~~Calamari Ocr~~ Easy-OCR to convert Research paper to text format
 - [x] Used Tailwind CSS for Responsive Web app
 
 
@@ -10,7 +10,7 @@ ML assignment for Research papers into Audiobook using Google Vision API &amp; G
 
 ### For OCR part
 
-> `pip install calamari-ocr` - Optical character 
+> `pip install easy-ocr` - Optical character 
 
 > `pip install gTTS` - for the speech synthesis of text file which contains the data.
 
