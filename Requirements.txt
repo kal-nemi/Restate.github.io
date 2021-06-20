@@ -1,0 +1,15 @@
+Task 1 - 
+Text extraction from pdf and converting it to audio(Using python).
+
+1. Install easy-ocr -> pip install easyocr.
+2. Install pdf2image -> pip install pdf2img
+3. Install gTTS	-> pip install gtts
+
+
+Task 2 -
+Responsive web app UI using tailwind css
+
+Site deployed on Github
+
+1. Used Tailwind CSS via CDN
+Follow this link ->https://tailwindcss.com/docs/installation#using-tailwind-via-cdn
